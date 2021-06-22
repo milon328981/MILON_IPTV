@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi TV
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_01_576&user=748e920475c8167decb7565f975b6468
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi TV 2
-https://www.youtube.com/watch?v=qPOZQA6ST2Q
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",NTV
-https://www.youtube.com/watch?v=icFhOPj0VPY
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Ekattor TV
-https://www.youtube.com/watch?v=CwJgEdbSFiU
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Somoy TV
-https://www.youtube.com/watch?v=RY4h_pv3jMM
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Independent
-https://www.youtube.com/watch?v=wqaZn10B4sI
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",
-https://www.youtube.com/watch?v=lrAIGJ81hfE
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Islamic" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Bangla",ATN Islamic
 http://iptvbd.jagobd.com:1931/boishakhi/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madani Tv Bangla" tvg-logo="https://www.clipartmax.com/png/middle/263-2636352_keep-watching-madani-channel-madani-channel-logo-png.png " group-title="Bangla",Madani Tv Bangla 
