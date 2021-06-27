@@ -5,8 +5,6 @@ https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_01_576&use
 http://103.106.243.163:8181//1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Gazi TV 3
 http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",T Sports
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u82/bangla/T_sport_1stop.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",Rabitholebd Sports
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_02_576&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" group-title="Bangla",T Sports 2
@@ -1859,3 +1857,5 @@ http://ott-cdn.ucom.am/s43/index.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg" group-title="Music",ಪಬ್ಲಿಕ್ ಸಂಗೀತ Public Music (576p)
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Documentary", Channel 24
+https://wyjs.tk/index.php/http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
