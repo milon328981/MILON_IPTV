@@ -54,12 +54,6 @@ http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chun
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png",MY TV
 http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/kMHNrM9/NAGORIK-removebg-preview.png",Nagorik TV
-http://103.205.133.19/hls/nagorik.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/kMHNrM9/NAGORIK-removebg-preview.png",Nagorik TV-2
-http://10.16.100.203:8082/bangla/nagorik.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/kMHNrM9/NAGORIK-removebg-preview.png",Nagorik TV-3
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://allnews24.info/static/img/logo/logo1.png",News 24
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 
@@ -624,38 +618,6 @@ http://stream.tvtap.live:8081/live/bt2.stream/playlist.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://calcuttanews.tv/newapps/icon/logo.png",Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/1340324673788121093/8ZAm4Oij_400x400.jpg",ABP Ananda
-https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/1ROogJu.png",RT News SD
-http://rt-usa.secure.footprint.net:80/1105_800Kb.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/0TnySS9.png",TRT WORLD HD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png",Sky News HD
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/R77S4T4.png",France 24 HD
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/R77S4T4.png",France 24 SD
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kg1FlEE.png",CGTN-English
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kg1FlEE.png",CGTN-Francais
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/LD1Lj0v.png",DW
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/53N0NTK.png",Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://starsat.co.za/wp-content/uploads/2018/10/Africa-News.png",Africa News
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/iwQc4dx.jpg",WEATHER NATION
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/1029819158622560257/IX7fTqWA_400x400.jpg",Hum News
-http://95.211.211.168/live/humnews0189/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/jPaqK2a.jpg",Ary News
-http://95.211.211.168/live/arynews0012/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://tinyurl.com/dtdse2v4",Zee 24 Ghanta
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://tinyurl.com/y29xoukj",Sangeet Bangla
 http://103.205.133.19/hls/sangeetbangla.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/WsprmwJ/unnamed-removebg-preview.png",Dhoom Music
