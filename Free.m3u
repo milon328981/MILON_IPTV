@@ -171,6 +171,63 @@ https://cutt.ly/EmoPzWO
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://tinyurl.com/yy4l2jzn",Mtv
 https://cutt.ly/1moPYHq
 
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/atnbangla.jpg" group-title="Bangla" ,Atn Bangla
+http://103.81.104.118/hls/stream17.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/channeli.jpg" group-title="Bangla" ,Channel I
+http://103.81.104.118/hls/stream18.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/maasranga.jpg" group-title="Bangla" ,Maasranga Television
+http://103.81.104.118/hls/stream20.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/channel24.jpg" group-title="Bangla" ,Somoy TV
+http://103.81.104.118/hls/stream21.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/channel24.jpg" group-title="Bangla" ,Channel 24
+http://103.81.104.118/hls/stream22.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/nagoriktvhd.jpg" group-title="Bangla" ,Nagorik TV
+http://103.81.104.118/hls/stream24.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony Aath
+https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/enter10bangla.jpg" group-title="Indian Bangla",Enterr10 Bangla
+http://103.81.104.118/hls/stream26.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/jalsha_movies.jpg" group-title="Indian Bangla",Jalsha Movies HD
+http://103.81.104.118/hls/stream27.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/colorsbangla.jpg" group-title="Indian Bangla",Colors Bangla HD
+http://103.81.104.118/hls/stream28.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="Indian Bangla",Zee Bangla HD
+http://103.81.104.118/hls/stream30.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Star Jalsha 2
+http://103.106.243.163:8181//19/index.m3u8?token=d4bb0f351ce68df3fc5c4ad9ff9f910a7868aa56-a63482e4da8cf64738fb8a8aa3008fbc-1624881337-1624870537&remote=43.250.83.73
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="Indian Bangla",Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/qxm.png" group-title="Hindi" ,9xm
+http://103.81.104.118/hls/stream4.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/zoom.jpg" group-title="Hindi" ,Zoom
+http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/utvaction.jpg" group-title="Hindi" ,Utv Action
+http://103.81.104.118/hls/stream7.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/andpictures-hd.jpg" group-title="Hindi" ,&pictures HD
+http://103.81.104.118/hls/stream14.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stargold.jpg" group-title="Hindi" ,Star Gold HD
+http://103.81.104.118/hls/stream19.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/zeecinemahd.jpg" group-title="Hindi" ,Zee Cinema HD
+http://103.81.104.118/hls/stream25.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/colorscineplex.jpg" group-title="Hindi" ,Colors Cineplex HD
+http://103.81.104.118/hls/stream29.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/colorscineplex.jpg" group-title="Hindi" ,Star Plus HD
+http://103.81.104.118/hls/stream38.m3u8
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="Hindi" ,Sony Max HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi" ,Sony Wah
+https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-utsav-logopedia-fandom-star-utsav-movies-png-1500_1700.png" group-title="Hindi" ,STAR_UTSAV
+http://89.41.180.253:8080/INDIA_HINDI/STAR_UTSAV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Hindi" ,STAR_BHARAT_HD
+http://89.41.180.253:8080/INDIA_HINDI/STAR_BHARAT_HD/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.ibb.co/mBGQXsd/Star-Plus-logo-removebg-preview.png",Star Plus-HD
 https://cutt.ly/LmoPJkf
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://is.gd/zg1dI5",E24 
