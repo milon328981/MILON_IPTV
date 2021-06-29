@@ -730,3 +730,222 @@ http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://tinyurl.com/yuphrdw7",Radio Capital
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BDIX", ATN Bangla 
+http://103.81.104.118/hls/stream17.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="BDIX", Channel 24 
+http://103.81.104.118/hls/stream22.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="BDIX", Channel I 
+http://103.81.104.118/hls/stream18.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="BDIX", Independent News
+http://103.81.104.118/hls/stream20.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="BDIX", Nagorik 
+http://103.81.104.118/hls/stream24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="BDIX", Somoy 
+http://103.81.104.118/hls/stream21.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BDIX", Colors Bangla HD 
+http://103.81.104.118/hls/stream28.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="BDIX", Enterr 10 Bangla 
+http://103.81.104.118/hls/stream26.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BDIX", Jalsha Movies HD 
+http://103.81.104.118/hls/stream27.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="BDIX", Star Jalsha HD 
+http://103.81.104.118/hls/stream31.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BDIX", Zee Bangla HD 
+http://103.81.104.118/hls/stream30.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="BDIX", And Pictures HD 
+http://103.81.104.118/hls/stream14.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="BDIX", Colors Cineplex HD 
+http://103.81.104.118/hls/stream29.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="BDIX", Sony Max HD 
+http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="BDIX", Star Gold HD 
+http://103.81.104.118/hls/stream19.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="BDIX", Star Plus HD 
+http://103.81.104.118/hls/stream38.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="BDIX", UTV Action 
+http://103.81.104.118/hls/stream7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="BDIX", Zee Cinema HD 
+http://103.81.104.118/hls/stream25.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="BDIX", 9XM 
+http://103.81.104.118/hls/stream4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="BDIX", Zoom 
+http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="BDIX", Nick 
+http://103.81.104.118/hls/stream23.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="BDIX", Sony Yay 
+http://103.81.104.118/hls/stream32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="BDIX", BBC Earth 
+http://103.81.104.118/hls/stream5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="BDIX", Discovery Bangla HD 
+http://103.81.104.118/hls/stream9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="BDIX", National Geographic Bangla HD 
+http://103.81.104.118/hls/stream13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BDIX", Travel XP Bangla HD 
+http://103.81.104.118/hls/stream37.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="BDIX", Animal Planet HD
+http://103.81.104.118/hls/stream6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="BDIX", AXN 
+http://103.81.104.118/hls/stream2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="BDIX", Sony Pix HD 
+http://103.81.104.118/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BDIX", Star Movies 
+http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="BDIX", PTV Sports 
+http://103.81.104.118/hls/stream11.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="BDIX", Sony Ten 1 HD 
+http://103.81.104.118/hls/stream40.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="BDIX", Sony Ten 2 HD 
+http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="BDIX", Sony Six HD 
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="BDIX", Star Sports 1 HD 
+http://103.81.104.118/hls/stream15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="BDIX", Star Sports 2 HD 
+http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="BDIX", Star Sports Select 1 HD 
+http://103.81.104.118/hls/stream12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="BDIX", Ten Cricket 
+http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="BDIX", Al Jazeera 
+http://103.81.104.118/hls/stream35.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="BDIX", BBC World 
+http://103.81.104.118/hls/stream36.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png" group-title="BDIX", Macca 
+http://103.81.104.118/hls/stream33.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Toffee Server (সবার চলবে)", Ananda TV
+https://streamer-1.toffeelive.com/mobile_hls/ananda_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Toffee Server (সবার চলবে)", Bangla TV
+https://streamer-1.toffeelive.com/mobile_hls/bangla_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Toffee Server (সবার চলবে)", Bijoy TV
+https://streamer-1.toffeelive.com/mobile_hls/bijoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Toffee Server (সবার চলবে)", Boishakhi TV
+https://streamer-1.toffeelive.com/mobile_hls/boishakhi/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Toffee Server (সবার চলবে)", Channel 24
+https://streamer-1.toffeelive.com/mobile_hls/channel_24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Toffee Server (সবার চলবে)", Channel I HD
+https://streamer-1.toffeelive.com/mobile_hls/channel_i/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Toffee Server (সবার চলবে)", DBC News
+https://streamer-1.toffeelive.com/mobile_hls/dbc_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Toffee Server (সবার চলবে)", Desh TV
+https://streamer-1.toffeelive.com/mobile_hls/desh_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Toffee Server (সবার চলবে)", Ekattor TV
+https://streamer-1.toffeelive.com/mobile_hls/ekattor_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Toffee Server (সবার চলবে)", Independent TV
+https://streamer-1.toffeelive.com/mobile_hls/independent/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Toffee Server (সবার চলবে)", MY TV
+https://streamer-1.toffeelive.com/mobile_hls/my_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mn88b34.png" group-title="Toffee Server (সবার চলবে)", News 24 HD
+https://streamer-1.toffeelive.com/mobile_hls/news24hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Toffee Server (সবার চলবে)", NTV BD
+https://streamer-1.toffeelive.com/mobile_hls/ntv_b/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Toffee Server (সবার চলবে)", Somoy TV
+https://streamer-1.toffeelive.com/mobile_hls/somoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cempbxl.png" group-title="Toffee Server (সবার চলবে)", Akash Aath
+https://streamer-1.toffeelive.com/mobile_hls/akash_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Toffee Server (সবার চলবে)", Colors Bangla HD
+https://streamer-1.toffeelive.com/mobile_hls/colors_b_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Toffee Server (সবার চলবে)", Colors Bangla SD
+https://streamer-1.toffeelive.com/mobile_hls/colors_b/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDyXobl.png" group-title="Toffee Server (সবার চলবে)", DD Bangla
+https://streamer-1.toffeelive.com/mobile_hls/dd_bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8OsMrB8.png" group-title="Toffee Server (সবার চলবে)", Ruposhi Bangla
+https://streamer-1.toffeelive.com/mobile_hls/ruposhi__bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Toffee Server (সবার চলবে)", Sony Aath
+https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Toffee Server (সবার চলবে)", Zee Bangla Cinema
+https://streamer-1.toffeelive.com/mobile_hls/zee_bangla_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Toffee Server (সবার চলবে)", Zee Bangla HD
+https://streamer-1.toffeelive.com/mobile_hls/zee_bangla_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Toffee Server (সবার চলবে)", & TV HD
+https://streamer-1.toffeelive.com/mobile_hls/atv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Toffee Server (সবার চলবে)", Bfilx Movies
+https://streamer-1.toffeelive.com/mobile_hls/bflix_sd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Toffee Server (সবার চলবে)", Colors SD
+https://streamer-1.toffeelive.com/mobile_hls/colors/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Toffee Server (সবার চলবে)", Colors HD
+https://streamer-1.toffeelive.com/mobile_hls/colors_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e59vBTr.jpg" group-title="Toffee Server (সবার চলবে)", News 24 India
+https://streamer-1.toffeelive.com/mobile_hls/news_24_india/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Toffee Server (সবার চলবে)", Sony Entertainment HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainmnt_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Toffee Server (সবার চলবে)", Sony Entertainment SD
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainment/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMBLe7L.jpg" group-title="Toffee Server (সবার চলবে)", Sony Pal
+https://streamer-1.toffeelive.com/mobile_hls/sony_pal/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Toffee Server (সবার চলবে)", Sony Max SD
+https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Toffee Server (সবার চলবে)", Sony Max HD
+https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZppxya.jpg" group-title="Toffee Server (সবার চলবে)", Sony Max 2
+https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Toffee Server (সবার চলবে)", Sony Sab HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_sab_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Toffee Server (সবার চলবে)", Zee TV HD
+https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Toffee Server (সবার চলবে)", Zee TV SD
+https://streamer-1.toffeelive.com/mobile_hls/Zee_TV/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h70werw.jpg" group-title="Toffee Server (সবার চলবে)", Sony Wah
+https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Ws4gCx.png" group-title="Toffee Server (সবার চলবে)", Ary Music
+https://streamer-1.toffeelive.com/mobile_hls/ary_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Toffee Server (সবার চলবে)", Dhoom Music
+https://streamer-1.toffeelive.com/mobile_hls/dhoom_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Toffee Server (সবার চলবে)", MTV
+https://streamer-1.toffeelive.com/mobile_hls/mtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/40PCjGa.png" group-title="Toffee Server (সবার চলবে)", MTV Beats HD
+https://streamer-1.toffeelive.com/mobile_hls/mtv_beats_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RmS55kU.png" group-title="Toffee Server (সবার চলবে)", Zingg
+https://streamer-1.toffeelive.com/mobile_hls/zing_sd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XITYSY0.png" group-title="Toffee Server (সবার চলবে)", Animal Planet
+https://streamer-1.toffeelive.com/mobile_hls/animal_planet_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="Toffee Server (সবার চলবে)", Colors Infinity HD
+https://streamer-1.toffeelive.com/mobile_hls/colors_infinity_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmjPBWy.png" group-title="Toffee Server (সবার চলবে)", Colors Ristey
+https://streamer-1.toffeelive.com/mobile_hls/colors_rishtey/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Toffee Server (সবার চলবে)", Discovery
+https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Toffee Server (সবার চলবে)", Discovery Science
+https://streamer-1.toffeelive.com/mobile_hls/dis_sci/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Toffee Server (সবার চলবে)", Discovery Turbo
+https://streamer-1.toffeelive.com/mobile_hls/dis_turbo/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="Toffee Server (সবার চলবে)", Sony BBC Earth 
+https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="Toffee Server (সবার চলবে)", Sony BBC Earth HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Toffee Server (সবার চলবে)", Sony Pix HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Toffee Server (সবার চলবে)", TLC HD
+https://streamer-1.toffeelive.com/mobile_hls/tlc_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Toffee Server (সবার চলবে)", Discovery Kids
+https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Toffee Server (সবার চলবে)", Nick Bangla
+https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Toffee Server (সবার চলবে)", Nick Junior
+https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Toffee Server (সবার চলবে)", Nick HD +
+https://streamer-1.toffeelive.com/mobile_hls/nick_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Toffee Server (সবার চলবে)", Sonic Nickeloden
+https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Toffee Server (সবার চলবে)", Sony Yay Bangla
+https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Toffee Server (সবার চলবে)", Sony Six HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Toffee Server (সবার চলবে)", Sony Ten 1 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Toffee Server (সবার চলবে)", Sony Ten 2 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Toffee Server (সবার চলবে)", Sony Ten 3 HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgHqXE5.png" group-title="Toffee Server (সবার চলবে)", Sunnah TV
+https://streamer-1.toffeelive.com/mobile_hls/sunnah_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t4FS3Hr.png" group-title="Toffee Server (সবার চলবে)", Quran TV
+https://streamer-1.toffeelive.com/mobile_hls/quran_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8hos05r.png" group-title="Toffee Server (সবার চলবে)", Ary QTV
+https://streamer-1.toffeelive.com/mobile_hls/ary_qtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+
