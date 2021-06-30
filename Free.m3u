@@ -187,6 +187,8 @@ http://103.81.104.118/hls/stream10.m3u8
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="Sports" ,Star Sports Select HD 1
 http://103.81.104.118/hls/stream12.m3u8
+#EXTINF:-1 tvg-logo="https://cutt.ly/MmaQ6e3" group-title="Sports" ,Star Sports Select HD 2
+https://cutt.ly/gmaQBtJ
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports 1
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/ster-sport-2hd.png" group-title="Sports" ,Star Sports HD 2
