@@ -112,7 +112,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla",Ntv 
 http://103.205.133.19/hls/ntv.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" group-title="Cartoon",Disney
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BDIX", ATN Bangla 
 http://tv.pmcon.net/hls/stream17.m3u8
