@@ -668,7 +668,7 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Ebox-BDIX (সবার চলবে না)", Jalsha Movies
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Plus HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Ebox-BDIX (সবার চলবে না)", Star Plus H
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Ebox-BDIX (সবার চলবে না)", Sony Sab HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
