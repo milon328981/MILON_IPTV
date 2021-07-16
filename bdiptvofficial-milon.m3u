@@ -159,7 +159,8 @@ http://tv.pmcon.net/hls/stream23.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="BDIX", Sony Yay 
 http://tv.pmcon.net/hls/stream32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="BDIX",pogo
-http://tamilbreak.com/jiotv/live.php?c=Pogo_Hindi&q=1200&e=.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="BDIX", Discovery Bangla HD 
+http://tv.pmcon.net/hls/stream5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="BDIX", Discovery Bangla HD 
 http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="BDIX", National Geographic Bangla HD 
 http://tv.pmcon.net/hls/stream13.m3u8
