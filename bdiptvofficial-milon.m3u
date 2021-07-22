@@ -97,6 +97,8 @@ http://tv.pmcon.net/hls/stream28.m3u8
 http://cdn.ihub.live:8080/j-colors-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD 2
 http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD 3
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/enter10bangla.jpg" group-title="INDIAN BANGLA",Enter10 Bangla
 http://tv.pmcon.net/hls/stream26.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/enter10bangla.jpg" group-title="INDIAN BANGLA",Enter10 Bangla 2
@@ -143,9 +145,9 @@ http://185.180.15.15:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD
 http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD 2
 http://tv2.ebox.live:8080/live/sony-max.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" tvg-logo="" group-title="Hindi Movies",
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" tvg-logo="" group-title="Hindi Movies",Sony Max HD 3
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/ManoranjanTVLogo.jpg/220px-ManoranjanTVLogo.jpg" group-title="Hindi Movies",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_360p/index.m3u8
@@ -338,23 +340,31 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD
-
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD
 https://wyjs.tk/index.php/http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://seeklogo.com/images/S/syfy-logo-EDF3AAB208-seeklogo.com.png",SyFy
 https://wyjs.tk/index.php/http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.ibb.co/NZtPcJD/FJTb-Kw-JA-1.png",Colors Infinity
 http://212.102.60.40:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/Dnvlm1",Romedy Now
-
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC 1
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC 1
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2 (1)
-https://wyjs.tk/index.php/https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_4.m3u8
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 2 (2)
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_4.m3u8
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Max (1)
-https://wyjs.tk/index.php/https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Max (2)
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+TINF:-1 group-title="World (Movies)" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Max (2)
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+TINF:-1 group-title="World (Movies)" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png",MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://e7.pngegg.com/pngimages/248/139/png-clipart-fox-action-movies-fox-movies-television-channel-fox-international-channels-action-film-others-miscellaneous-television.png",Fox Movies Action
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/15114
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/nKrTKX",Fox Crime
