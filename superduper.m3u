@@ -118,7 +118,7 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Hindi Movies",Star Gold HD 3
 http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/stargold.jpg" group-title="Hindi Movies",Star Gold HD 4
-https://wyjs.tk/index.php/http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/stargold.jpg" group-title="Hindi Movies",Star Gold HD 5
 http://212.102.60.40:2200/R-EX/FHD_STAR_GOLD_-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://tv.pmcon.net/img/colorscineplex.jpg" tvg-logo="" group-title="Hindi Movies",Colors Cineplex
