@@ -374,7 +374,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://tinyurl.com/2zphjmt7",Star Movies Select HD (2)
 http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=SS
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action
-http://tv.pmcon.net/hls/stream7.m3u8
+http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action
 http://tv.pmcon.net/hls/stream7.m3u8
 
