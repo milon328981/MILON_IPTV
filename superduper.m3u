@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gtv
 http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://durbinlive.com/uploads/tv_image/sm/bangladesh-vs-zimbabwe.jpg" group-title="Bangla",Fancode Live
-https://fancodealive1-a.akamaihd.net/f06aa5c6599c41548bb59b68b850def6/ap-south-1/6008340455001/profile_0/hdntl=exp=1627124580~acl=%2f*~id=116502193_EhsBSldS8nF4ISXj~data=hdntl~hmac=54b6bb0d5f3060055f0d283d9e596955bd8373b05f191836b195520b25173d85/chunklist_dvr.m3u8?hdnea=st=1627038177~exp=9007200881779168~acl=/f06aa5c6599c41548bb59b68b850def6/*/profile_0/chunklist_dvr.m3u8*~hmac=0c3d94d03b04f2282132b72f41ff56fddfd45201dc817267ea72190a4232c723
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://ihub.live/uploads/tv_image/sm/nagorik-tv.jpg" tvg-logo="" group-title="Bangla",Nagorik
-https://cdn.ihub.live/NagorikTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://ihub.live/uploads/tv_image/sm/bangla-tv.jpg" tvg-logo="" group-title="Bangla",Bangla TV
-https://cdn.ihub.live/j-BanglaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/ntv.jpg" group-title="Bangla",NTV
-https://cdn.ihub.live/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/nagoriktvhd.jpg" group-title="Bangla",Nagorik 2
 http://tv.pmcon.net/hls/stream24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla",
