@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gtv
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://212.224.98.208:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=Durbinlive
+http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/deepto-tv.jpg" group-title="Bangla",Deepto Tv
 https://cdn.ihub.live/j-DeeptoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://ihub.live/uploads/tv_image/sm/nagorik-tv.jpg" tvg-logo="" group-title="Bangla",Nagorik
