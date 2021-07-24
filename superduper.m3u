@@ -904,3 +904,24 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/7318
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/7315
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/6jfffSI.png",MTV Classic
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/7320
+
+
+
+
+
+Olympic
+
+
+#EXTINF:-1 group-title="Olympic" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 HD
+http://185.180.15.14:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="Olympic" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",Sony Ten 2 HD
+http://185.180.15.13:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="Olympic" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png",Sony Ten 3 HD
+http://185.180.15.13:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="Olympic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg",Sony Six HD
+http://185.180.15.13:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token==RED
+
+#EXTINF:-1 group-title="Olympic" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 (5)
+http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:-1 group-title="Olympic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg",Sony Ten 2 (5)
+http://tv.pmcon.net/hls/stream39.m3u8
