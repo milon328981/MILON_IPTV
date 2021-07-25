@@ -72,11 +72,11 @@ http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
 http://tv.pmcon.net/hls/stream30.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 2
-https://cdn.ihub.live/j-Zee-Bangla-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 3
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath
-http://pn.tvott.info:80/307200113544/307200113544/83798
+http://103.157.237.18:8000/play/210
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
 http://pn.tvott.info:80/307200113544/307200113544/83772
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://tv.pmcon.net/img/starjalsha.jpg" tvg-logo="" group-title="INDIAN BANGLA",Star Jalsha HD 2
@@ -104,7 +104,7 @@ http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?toke
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="INDIAN BANGLA",Zee_Bangla_Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://pbs.twimg.com/media/Dyefs82W0AEqZ7S.jpg" group-title="INDIAN BANGLA",Sun Bangla
-http://pn.tvott.info:80/307200113544/307200113544/83740
+http://103.109.56.116/live/skyfeed1009/index.m3u8
 
 
 
