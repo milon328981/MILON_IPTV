@@ -1,13 +1,16 @@
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS 1 ENGLISH UHD
 http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
+http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
+http://live.himel-himu.tk/GTV-HD-Bdix/hls/Himel-Op.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
-https://tvs2.aynaott.com/willowhd/index.m3u8?hdnts=st=1696673338~exp=1696716538~acl=/*~data=45.61.146.183-WEB~hmac=edca96d1db06bf826b9a388ddce613ba5f088d9d433e3bd81fb19a49e692b176
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
-https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1696673122~exp=1696716322~acl=/*~data=45.61.146.183-WEB~hmac=84f96ef1a0fbd97e96e9e85910cb1ce3fb6ee8c0a980d4093f4aa626ab5125c3
+http://165.232.180.60/tharindu/match2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
-https://tvs2.aynaott.com/Ptvsports/index.m3u8?hdnts=st=1696673170~exp=1696716370~acl=/*~data=45.61.146.183-WEB~hmac=8fd8f12173e4f543828832c7272fc33e093596f35495c6d4ef24902b03f4836d
+https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
 https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
@@ -17,9 +20,9 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
 https://sportsleading.online/live/stream_e2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
-https://tvs1.aynaott.com/astrocrickethd/index.m3u8?hdnts=st=1696673279~exp=1696716479~acl=/*~data=45.61.146.183-WEB~hmac=23d8f66e010cc7055a85df2b3d44b6608afcc29ffcbe80221bf458c28ea64178
+https://sportsleading.online/live/stream_e2.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
-https://tvs1.aynaott.com/asports/index.m3u8?hdnts=st=1696673205~exp=1696716405~acl=/*~data=45.61.146.183-WEB~hmac=8d3fa55fb2dd2d85d2eb7a9724b48c2786907097a7a1d7e2cd783208497e2c16
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1696751347~exp=1696794547~acl=/*~data=45.61.146.183-WEB~hmac=4646e32bf220b94b19b0f06b178a4fe93eeaf8ab31803cd496c196f941f3eb34
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="World cup",WC 1
 https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS 1 ENGLISH UHD
@@ -31,7 +34,7 @@ http://11plus.live/live/stersports1hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/STAR-SPORTS-1-HD.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS 1 ENGLISH UHD
 http://10.16.100.212:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS HINDI 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="|AS| SPORTS",SPORTS - STAR SPORTS HINDI 1 FHD
-https://iron-man.dr-strange.workers.dev/wanda.m3u8?key=STREAM-KING&token=PREMIUM&id=49569|User-agent=IRON-MAN
+https://msrsagar.vipboxtv.stream/ddy5/premium369/tracks-v1a1/mono.m3u8|user-agent=msr&referer=https://superntuplay.xyz/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 HINDI UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="|AS| SPORTS",SPORTS - GTV UHD
 http://11plus.live/live/Gazi-TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - STAR SPORTS 1 HINDI UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="|AS| SPORTS",SPORTS - GTV UHD
