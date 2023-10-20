@@ -753,16 +753,15 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BGL - NTV HD" tvg-logo="" group-title="IND Bangla Movie",Pirat 2006
-http://index.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2006/Pirates%20of%20the%20Caribbean%20Dead%20Man%27s%20Chest%20%282006%29%201080p%20BluRay%20%5BDual%20Audio%20DD5.1%5D%20%5BHin%2BEng%5D%20ESub%20x264/Pirates%20of%20the%20Caribbean%20Dead%20Man%27s%20Chest%20%282006%29%201080p%20BluRay%20%5BDual%20Audio%20DD5.1%5D%20%5BHin%2BEng%5D%20ESub%20x264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BGL - NTV HD" tvg-logo="" group-title="IND Bangla Movie",x 1
+http://172.16.50.7/SAM-FTP-2/English%20Movies/%282000%29/X-Men%20%282000%29%20720p%20%5BDual%20Audio%5D/X-Men%20%282000%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%2BEnglish%205.1%5D%20-%20KartiKing.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="BGL - NTV HD" tvg-logo="" group-title="IND Bangla Movie", pirat 2007
-http://index.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2007/Pirates%20of%20the%20Caribbean%20At%20World%27s%20End%20%282007%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%20DD5.1%2BEnglish%20DD5.1%5D%20Esubs%20x264/Pirates%20of%20the%20Caribbean%20At%20World%27s%20End%20%282007%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%20DD5.1%2BEnglish%20DD5.1%5D%20Esubs%20x264.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="BGL - NTV HD" tvg-logo="" group-title="IND Bangla Movie", pirat 2011
-http://10.16.100.206/ftps3/ftps3d8/Movies/Dual%20Audio/Pirates%20of%20the%20Caribbean%20On%20Stranger%20Tides%20(2011)%20(Hindi%20Dubbed)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-name="BGL - NTV HD" tvg-logo="" group-title="IND Bangla Movie", pirat 2017
-http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Dual%20Audio/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%20(2017)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BGL - NTV HD" tvg-logo="" group-title="IND Bangla Movie",x2
+http://172.16.50.7/SAM-FTP-2/English%20Movies/%282003%29/X-Men%202%20%282003%29%20720p%20%5BDual%20Audio%5D/X-Men%202%20%282003%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%2BEnglish%205.1%5D%20-%20KartiKing.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BGL - NTV HD" tvg-logo="" group-title="IND Bangla Movie", x3
+http://172.16.50.7/SAM-FTP-2/English%20Movies/%282006%29/X-Men-The%20Last%20Stand%20%282006%29%20720p%20%5BDual%20Audio%5D/X-Men%20The%20Last%20Stand%20%282006%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%2BEnglish%205.1%5D%20-%20KartiKing.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BGL - NTV HD" tvg-logo="" group-title="IND Bangla Movie",x4
+http://172.16.50.7/SAM-FTP-2/English%20Movies/%282009%29/X-Men%20Origins-Wolverine%20%282009%29%20720p%20%5BDual%20Audio%5D/X-Men%20Origins%20Wolverine%20%282009%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%20DD5.1%2BEnglish%205.1%5D%20-%20KartiKing.mkv
 #EXTINF:-1 tvg-id="" tvg-name="BGL - NTV HD" tvg-logo="" group-title="IND Bangla Movie",rdx
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/RDX%20Robert%20Dony%20Xavier%20%282023%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BMalayalam%5D%20H265/RDX%20Robert%20Dony%20Xavier%20%282023%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BMalayalam%5D%20H265.mkv
 
