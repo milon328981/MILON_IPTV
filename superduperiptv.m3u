@@ -157,7 +157,41 @@ http://119.156.26.155:8000/play/a07f/index.m3u8
 #EXTINF:-1,Star Sports Select 2 HD
 http://119.156.26.155:8000/play/a07g/index.m3u8
 
-
+#EXTINF:-1,Super sports laliga
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
+#EXTINF:-1,Super sports cricket 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
+Super sports premier league 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
+#EXTINF:-1,Super sports golf 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Golf_Live_TV/index.m3u8
+#EXTINF:-1,Super sports action 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Action_Live_TV/index.m3u8
+#EXTINF:-1,Super sports football 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
+#EXTINF:-1,Super sports biltz 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Blitz_Live_TV/index.m3u8
+#EXTINF:-1,Willow cricket extra 
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8
+#EXTINF:-1,Sky sports premier league 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
+#EXTINF:-1,Laliga tv
+#EXTINF:-1,https://vipgoodlive-tvs.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8
+#EXTINF:-1,Willow cricket 
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
+#EXTINF:-1,Sky sports main event 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8.
+#EXTINF:-1,Sky sports cricket 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
+#EXTINF:-1,Sky Sports f1
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_F1_Live_TV/index.m3u8
+#EXTINF:-1,Sky Sports golf 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Golf_Live_TV/index.m3u8
+#EXTINF:-1,Sky Sports football 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
+#EXTINF:-1,Sky sports mix 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8
+vipgoodlive-
 
 
 
@@ -173,8 +207,18 @@ http://119.156.26.155:8000/play/a07g/index.m3u8
 
                       ****************INDIAN CHANNEL****************
 
+#EXTINF:-1,Star Plus HD
+http://172.72.72.5:8080/45/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors HD
 http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
+#EXTINF:-1,Sony Max HD
+http://172.72.72.5:8080/44/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony HD
+http://172.72.72.5:8080/16/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony SAB HD
+http://172.72.72.5:8080/46/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee TV
+http://172.72.72.5:8080/83/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Cinama HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1,And Picture HD
@@ -187,6 +231,8 @@ http://14.102.123.50:5001/live/482.m3u8
 http://14.102.123.50:5001/live/1450.m3u8
 #EXTINF:-1,Star Gold HD
 http://humsab.xyz/IN_STGOLD/index.m3u8?token=d6775a1f115e5106be2e258d1a97ef71
+#EXTINF:-1,AND TV
+http://172.72.72.5:8080/81/tracks-v1a1/mono.m3u8
 #EXTINF:-1,&PRIVE HD
 http://119.156.26.155:8000/play/a07j/index.m3u8
 #EXTINF:-1,&flix HD
