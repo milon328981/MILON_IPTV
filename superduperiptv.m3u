@@ -1,23 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BANGALI| MANJARI TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/MANJARI.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| MANJARI TV
-http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/1531206.m3u8
-#EXTINF:-1 tvg-id="NewsLive.in" tvg-name="BANGALI| NEWS LIVE" tvg-logo="http://logo.protv.cc/picons/logos/logos/NEWS-LIVE.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| NEWS LIVE
-http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/1531205.m3u8
-#EXTINF:-1 tvg-id="NewsTimeBangla.in" tvg-name="BANGALI| NEWS TIME" tvg-logo="http://logo.protv.cc/picons/logos/logos/NEWS-TIME.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| NEWS TIME
-http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/1531204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BANGALI| ZEE 24 GHANTA TV" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-24-GHANTA.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| ZEE 24 GHANTA TV
-http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/1531203.m3u8
+
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="BANGALI| ZEE FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-TV.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| ZEE FHD
-http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/1531202.m3u8
-#EXTINF:-1 tvg-id="CalcuttaNews.in" tvg-name="BANGALI| CALCUTTA NEWS" tvg-logo="http://logo.protv.cc/picons/logos/logos/CALCUTTA-NEWS.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| CALCUTTA NEWS
-http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/1531201.m3u8
-#EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="BANGALI| NEWS18 BANGLA" tvg-logo="http://logo.protv.cc/picons/logos/logos/NEWS18-BANGLA.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| NEWS18 BANGLA
-http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/1531200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BANGALI| DISCOVERY FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/DISCOVERY.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| DISCOVERY FHD
-http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/1531199.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-name="BANGALI| SONY YAY" tvg-logo="http://logo.protv.cc/picons/logos/logos/SONY-YAY.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| SONY YAY
-http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/1531198.m3u8
+
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="BENGALI| ZEE BANGLA FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-BANGLA.png" group-title="ASIA | BENGALI/BANGLA",BENGALI| ZEE BANGLA FHD
 http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/155774.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="BENGALI| ZEE BANGLA CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-BANGLA-CINEMA.png" group-title="ASIA | BENGALI/BANGLA",BENGALI| ZEE BANGLA CINEMA
