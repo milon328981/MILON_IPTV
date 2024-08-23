@@ -1,8 +1,5 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="BANGALI| ZEE FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-TV.png" group-title="ASIA | BENGALI/BANGLA",BANGALI| ZEE FHD
-
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="BENGALI| ZEE BANGLA FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-BANGLA.png" group-title="ASIA | BENGALI/BANGLA",BENGALI| ZEE BANGLA FHD
 http://line.protv.cc:80/live/0qdgpcy4oe/g98am9a90m/155774.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="BENGALI| ZEE BANGLA CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/logos/ZEE-BANGLA-CINEMA.png" group-title="ASIA | BENGALI/BANGLA",BENGALI| ZEE BANGLA CINEMA
